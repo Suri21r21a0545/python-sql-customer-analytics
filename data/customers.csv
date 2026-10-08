@@ -1,0 +1,21 @@
+customer_id,name,email,city,registration_date
+1,Aarav Sharma,aarav.sharma@example.com,Hyderabad,2025-01-15
+2,Ananya Reddy,ananya.reddy@example.com,Bengaluru,2025-01-20
+3,Rahul Kumar,rahul.kumar@example.com,Chennai,2025-02-05
+4,Sneha Rao,sneha.rao@example.com,Hyderabad,2025-02-18
+5,Vikram Singh,vikram.singh@example.com,Mumbai,2025-03-02
+6,Priya Nair,priya.nair@example.com,Kochi,2025-03-11
+7,Arjun Mehta,arjun.mehta@example.com,Pune,2025-03-25
+8,Kavya Reddy,kavya.reddy@example.com,Hyderabad,2025-04-07
+9,Rohit Verma,rohit.verma@example.com,Delhi,2025-04-19
+10,Divya Iyer,divya.iyer@example.com,Chennai,2025-05-03
+11,Manish Gupta,manish.gupta@example.com,Mumbai,2025-05-17
+12,Neha Patel,neha.patel@example.com,Ahmedabad,2025-06-01
+13,Kiran Rao,kiran.rao@example.com,Hyderabad,2025-06-15
+14,Meera Joshi,meera.joshi@example.com,Pune,2025-07-04
+15,Sanjay Das,sanjay.das@example.com,Kolkata,2025-07-21
+16,Isha Kapoor,isha.kapoor@example.com,Delhi,2025-08-09
+17,Aditya Rao,aditya.rao@example.com,Bengaluru,2025-08-24
+18,Pooja Menon,pooja.menon@example.com,Kochi,2025-09-05
+19,Varun Shah,varun.shah@example.com,Ahmedabad,2025-09-18
+20,Nandini Rao,nandini.rao@example.com,Hyderabad,2025-10-02
